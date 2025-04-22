@@ -1,1 +1,6 @@
 .vscode/*
+logs/*
+
+lora-trainer-server
+go.sum
+server
